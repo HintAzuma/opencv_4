@@ -1,3 +1,13 @@
+# Fork Memo
+changed by HintAzuma.
+update setting file for android build.
+this fork can build on 2023.12.5.
+thanks original source developer.
+
+Project error reference.
+https://stackoverflow.com/questions/64069449/execution-failed-for-task-appmergedebugnativelibs-in-react-native
+
+
 <h1 align="center">OpenCV_4</h1>
 
 <p align="center">This package contains the implementation of OpenCV modules, the version used is 4.3.0 for both Android and iOS platforms.</p><br>
